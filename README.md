@@ -13,12 +13,12 @@ git@github.com:duhardo/hello-world.git
 
 falar para o git monitorar os arquivos para serem versionados.
 
----git
+```git
 git and .
----
+```
 
 Comando para criar a versão dos arquivos, **a mensagem entre aspas deve representar oque foi feito!**
 
----git
+```git
 git commit -m "uma mensagem sobre o que foi realizado"
----
+```
